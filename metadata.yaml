@@ -1,0 +1,37 @@
+_repo: Comments-on-the-Taxonomy-and-Geographic-Distribution-of-Some-North-American-Rodents_33578
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Hall, E. Raymond (Eugene Raymond)
+    alias: Hall, Eugene Raymond
+    birthdate: 1902
+    deathdate: 1986
+    gutenberg_agent_id: '26108'
+    url: http://www.gutenberg.org/2009/agents/26108
+  - agent_name: Kelson, Keith R.
+    gutenberg_agent_id: '33555'
+    url: http://www.gutenberg.org/2009/agents/33555
+description: ''
+gutenberg_bookshelf:
+- Animal
+- Animals-Wild-Mammals
+gutenberg_issued: '2010-08-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33578'
+  lccn: '53062318'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QH'
+- !lcsh 'Rodents'
+- !lcsh 'Mammals -- North America'
+- !lcc 'QL'
+title: Comments on the Taxonomy and Geographic Distribution of Some North American
+  Rodents
+url: http://www.gutenberg.org/ebooks/33578
